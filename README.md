@@ -182,7 +182,7 @@ h1{
 
 ## OUTPUT:
 
-[!OUTPUT](web.png)
+![OUTPUT](web.png)
 
 ## Result:
 
